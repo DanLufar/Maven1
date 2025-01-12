@@ -1,5 +1,4 @@
 package org.example;
-import org.example.PasswordGenerator;
 
 public class App {
     public static void main(String[] args) {
